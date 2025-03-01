@@ -8,7 +8,7 @@ import LoginForm from './Components/LoginForm';
 import MovieDetails from './MovieDetails';
 
 function App() {
-
+//commit This is Faizan's Code 
   return (
     <BrowserRouter>
       <div className="app">
